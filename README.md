@@ -1,1 +1,1 @@
-# manga-scaper-api
+# Manga Scraper Api
